@@ -12,7 +12,7 @@
 MindLoop is a tool aiming to help neurodivergent people communicate and regulate their emotions. People living with needs such as autism, anxiety and ADHD struggle with problems such as inaccessible resources and an inability to express their emotions. MindLoop hopes to act as a non-verbal aid to these people, addressing this real-world problem.
 
 # Technologies
-This project was built using Microsoft MakeCode for the Adafruit Circuit Playground Express.
+Microsoft MakeCode for the Adafruit Circuit Playground Express.
 
   ## Languages & Frameworks
     JavaScript (MakeCode environment)
