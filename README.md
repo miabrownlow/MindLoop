@@ -17,22 +17,22 @@ This project was built using Microsoft MakeCode for the Adafruit Circuit Playgro
   ## Languages & Frameworks
     JavaScript (MakeCode environment)
   
-  ### APIs
-    MakeCode Light API
+  ## APIs
+   ### MakeCode Light API
       Functions to control LED lights:
         light.setAll()
         light.setBrightness()
         light.clear()
-    MakeCode Input API
+   ### MakeCode Input API
      Button interactions and inputs:
         input.buttonA.onEvent()
         input.buttonB.onEvent()
-    MakeCode Loops & Control API
+   ### MakeCode Loops & Control API
       Timing and running code:
         pause()
         control.runInParallel()
 
-  #### Hardware & Board
+  ## Hardware & Board
     Adafruit Circuit Playground Express
     Firmware: Adafruit UF2 Bootloader 3.x or newer
     Built-in NeoPixel ring (10 LEDs)
