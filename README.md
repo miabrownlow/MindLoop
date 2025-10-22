@@ -22,7 +22,7 @@ Microsoft MakeCode for the Adafruit Circuit Playground Express.
 
 ## Features
   ### Guide Sheet That Will Explain and Intruct Users
-    <img width="211" height="298" alt="image" src="https://github.com/user-attachments/assets/9ad723fd-c8c2-417a-b2f8-c786c2f47727" />
+  <img width="211" height="298" alt="image" src="https://github.com/user-attachments/assets/9ad723fd-c8c2-417a-b2f8-c786c2f47727" /> 
     This is a colour/emotion guide, as well as instructions of how to use the prototype.
     
   ### LED Light Control
