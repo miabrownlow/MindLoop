@@ -23,3 +23,5 @@ Microsoft MakeCode for the Adafruit Circuit Playground Express.
     Built-in NeoPixel ring (10 LEDs)
 
 ## Features
+  ### Guide Sheet That Will Explain and Intruct Users
+  <img width="211" height="298" alt="image" src="https://github.com/user-attachments/assets/9ad723fd-c8c2-417a-b2f8-c786c2f47727" />
