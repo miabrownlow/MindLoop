@@ -17,21 +17,6 @@ Microsoft MakeCode for the Adafruit Circuit Playground Express.
   ## Languages & Frameworks
     JavaScript (MakeCode environment)
   
-  ## APIs
-   ### MakeCode Light API
-      Functions to control LED lights:
-        light.setAll()
-        light.setBrightness()
-        light.clear()
-   ### MakeCode Input API
-     Button interactions and inputs:
-        input.buttonA.onEvent()
-        input.buttonB.onEvent()
-   ### MakeCode Loops & Control API
-      Timing and running code:
-        pause()
-        control.runInParallel()
-
   ## Hardware & Board
     Adafruit Circuit Playground Express
     Firmware: Adafruit UF2 Bootloader 3.x or newer
