@@ -22,7 +22,7 @@ Microsoft MakeCode for the Adafruit Circuit Playground Express.
 
 ## Features
   ### Guide Sheet That Will Explain and Intruct Users
-  <img width="211" height="298" alt="image" src="https://github.com/user-attachments/assets/9ad723fd-c8c2-417a-b2f8-c786c2f47727" /> 
+<img width="1414" height="2000" alt="Red light rgb(0, 0, 139),  Dark Blue light rgb(128, 0, 128),  Purple light rgb(0, 100, 0),  Dark Green light rgb(255, 165, 0),  Orange light rgb(255, 255, 0),  Yellow light rgb(144, 238, 144),  Li" src="https://github.com/user-attachments/assets/3f1ad6e7-0b61-45e9-9c17-a52dd944be0f" />
     
     This is a colour/emotion guide, as well as instructions of how to use the prototype.
     
